@@ -1,0 +1,13 @@
+<suite name="Issue48">
+	<test name="Test1" >
+		<classes>
+			<class name="issue48.ArithmeticTest" />
+		</classes>
+	</test>
+
+	<test name="Test2">
+		<classes>
+			<class name="issue48.ArithmeticTest"/>
+		</classes>
+	</test>
+</suite>

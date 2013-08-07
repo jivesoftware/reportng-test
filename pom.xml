@@ -53,7 +53,7 @@
                     </properties>
                     <workingDirectory>target/</workingDirectory>
                     <suiteXmlFiles>
-                        <suiteXmlFile>testng-suite1.xml</suiteXmlFile>
+                        <suiteXmlFile>testng-suite-issue-48.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
