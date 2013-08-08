@@ -5,4 +5,6 @@ TestNG tests used to validate changes we've made to the jivesoftware/reportng Gi
 
 
 maintainer:
-chris.cowell-shah@jivesoftware.com or cwcowellshah@gmail.com
+Chris Cowell-Shah
+chris.cowell-shah@jivesoftware.com
+cwcowellshah@gmail.com

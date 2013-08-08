@@ -1,0 +1,23 @@
+<suite name="total round up to 1">
+
+    <test name="roundUpTo1 first try">
+        <classes>
+            <class name="issue48.TestClass">
+                <methods>
+                    <include name="roundUpTo1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="roundUpTo1 second try">
+        <classes>
+            <class name="issue48.TestClass">
+                <methods>
+                    <include name="roundUpTo1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

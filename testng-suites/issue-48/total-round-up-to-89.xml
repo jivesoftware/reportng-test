@@ -1,0 +1,23 @@
+<suite name="total round up to 89">
+
+    <test name="roundUpTo96">
+        <classes>
+            <class name="issue48.TestClass">
+                <methods>
+                    <include name="roundUpTo96"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="roundDownTo64">
+        <classes>
+            <class name="issue48.TestClass">
+                <methods>
+                    <include name="roundDownTo64"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

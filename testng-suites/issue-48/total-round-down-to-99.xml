@@ -1,0 +1,23 @@
+<suite name="total round down to 99">
+
+    <test name="roundDownTo99 first try">
+        <classes>
+            <class name="issue48.TestClass">
+                <methods>
+                    <include name="roundDownTo99"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="roundDownTo99 second try">
+        <classes>
+            <class name="issue48.TestClass">
+                <methods>
+                    <include name="roundDownTo99"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
